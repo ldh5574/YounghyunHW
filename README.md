@@ -1,6 +1,8 @@
 # YounghyunHW
 VpythonHomework
 
+![코드실행 성공 썸네일](https://user-images.githubusercontent.com/46510929/101711054-1edacc00-3ad6-11eb-9b20-01d96f920b99.JPG)
+
 ##### 문제
 어린왕자행성 모델
 어린왕자가 사는 행성의 표면중력이 지구중력과 같도록 모델링하고 풀이 과정과 함께 다음의 물음에 답하시오. 
